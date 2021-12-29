@@ -76,3 +76,9 @@
 [submodule "dnb-hugo-giscus"]
 	path = dnb-hugo-giscus
 	url = git@github.com:dnb-org/dnb-hugo-giscus.git
+[submodule "dnb-hugo-internals"]
+	path = dnb-hugo-internals
+	url = git@github.com:dnb-org/dnb-hugo-internals.git
+[submodule "dnb-hugo-renderhooks"]
+	path = dnb-hugo-renderhooks
+	url = git@github.com:dnb-org/dnb-hugo-renderhooks.git
