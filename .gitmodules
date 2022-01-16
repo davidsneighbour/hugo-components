@@ -82,3 +82,12 @@
 [submodule "dnb-hugo-renderhooks"]
 	path = dnb-hugo-renderhooks
 	url = git@github.com:dnb-org/dnb-hugo-renderhooks.git
+[submodule "dnb-hugo-icons"]
+	path = dnb-hugo-icons
+	url = git@github.com:dnb-org/dnb-hugo-icons.git
+[submodule "dnb-hugo-testcontent"]
+	path = dnb-hugo-testcontent
+	url = git@github.com:dnb-org/dnb-hugo-testcontent.git
+[submodule "dnb-hugo-workflows"]
+	path = dnb-hugo-workflows
+	url = git@github.com:dnb-org/dnb-hugo-workflows.git
