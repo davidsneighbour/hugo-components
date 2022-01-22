@@ -1,0 +1,27 @@
+#!/bin/bash
+
+REQUIRED_TOOLS=(
+  git
+  hugo
+)
+
+# check for tools
+for tool in "${REQUIRED_TOOLS[@]}"; do
+  if ! command -v "${tool}" >/dev/null; then
+    echo "Tool ${tool} is required. Exiting"; exit 1
+  fi
+done
+
+# iterate over subdirectories
+for dir in dnb-hugo*
+do
+  cd "${dir}" > /dev/null || return
+  echo -e  "\e[1;36m[================== ${dir} ==================]\e[m"
+  hugo mod get -u ./...
+  hugo mod tidy
+  cd ..
+done
+cd ..
+
+# ending
+echo "Completed in ${SECONDS}s"
