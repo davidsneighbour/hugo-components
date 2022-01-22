@@ -153,3 +153,8 @@
 	url = https://github.com/dnb-org/dnb-hugo-workflows
   ignore = dirty
   shallow = true
+[submodule "dnb-hugo-bin"]
+	path = dnb-hugo-bin
+	url = https://github.com/dnb-org/dnb-hugo-bin
+  ignore = dirty
+  shallow = true
