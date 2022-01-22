@@ -1,0 +1,93 @@
+[submodule "dnb-hugo-youtube"]
+	path = dnb-hugo-youtube
+	url = https://github.com/dnb-org/dnb-hugo-youtube
+[submodule "dnb-hugo-assets-unsplash"]
+	path = dnb-hugo-assets-unsplash
+	url = https://github.com/dnb-org/dnb-hugo-assets-unsplash
+[submodule "dnb-hugo-asylum"]
+	path = dnb-hugo-asylum
+	url = https://github.com/dnb-org/dnb-hugo-asylum
+[submodule "dnb-hugo-auditor"]
+	path = dnb-hugo-auditor
+	url = https://github.com/dnb-org/dnb-hugo-auditor
+[submodule "dnb-hugo-debug"]
+	path = dnb-hugo-debug
+	url = https://github.com/dnb-org/dnb-hugo-debug
+[submodule "dnb-hugo-dev-server-sample"]
+	path = dnb-hugo-dev-server-sample
+	url = https://github.com/dnb-org/dnb-hugo-dev-server-sample
+[submodule "dnb-hugo-errors"]
+	path = dnb-hugo-errors
+	url = https://github.com/dnb-org/dnb-hugo-errors
+[submodule "dnb-hugo-feeds"]
+	path = dnb-hugo-feeds
+	url = https://github.com/dnb-org/dnb-hugo-feeds
+[submodule "dnb-hugo-functions"]
+	path = dnb-hugo-functions
+	url = https://github.com/dnb-org/dnb-hugo-functions
+[submodule "dnb-hugo-giscus"]
+	path = dnb-hugo-giscus
+	url = https://github.com/dnb-org/dnb-hugo-giscus
+[submodule "dnb-hugo-head"]
+	path = dnb-hugo-head
+	url = https://github.com/dnb-org/dnb-hugo-head
+[submodule "dnb-hugo-hooks"]
+	path = dnb-hugo-hooks
+	url = https://github.com/dnb-org/dnb-hugo-hooks
+[submodule "dnb-hugo-humans"]
+	path = dnb-hugo-humans
+	url = https://github.com/dnb-org/dnb-hugo-humans
+[submodule "dnb-hugo-icons"]
+	path = dnb-hugo-icons
+	url = https://github.com/dnb-org/dnb-hugo-icons
+[submodule "dnb-hugo-internals"]
+	path = dnb-hugo-internals
+	url = https://github.com/dnb-org/dnb-hugo-internals
+[submodule "dnb-hugo-netlification"]
+	path = dnb-hugo-netlification
+	url = https://github.com/dnb-org/dnb-hugo-netlification
+[submodule "dnb-hugo-opensearch"]
+	path = dnb-hugo-opensearch
+	url = https://github.com/dnb-org/dnb-hugo-opensearch
+[submodule "dnb-hugo-pictures"]
+	path = dnb-hugo-pictures
+	url = https://github.com/dnb-org/dnb-hugo-pictures
+[submodule "dnb-hugo-publisher"]
+	path = dnb-hugo-publisher
+	url = https://github.com/dnb-org/dnb-hugo-publisher
+[submodule "dnb-hugo-pwa"]
+	path = dnb-hugo-pwa
+	url = https://github.com/dnb-org/dnb-hugo-pwa
+[submodule "dnb-hugo-renderhooks"]
+	path = dnb-hugo-renderhooks
+	url = https://github.com/dnb-org/dnb-hugo-renderhooks
+[submodule "dnb-hugo-robots"]
+	path = dnb-hugo-robots
+	url = https://github.com/dnb-org/dnb-hugo-robots
+[submodule "dnb-hugo-schema"]
+	path = dnb-hugo-schema
+	url = https://github.com/dnb-org/dnb-hugo-schema
+[submodule "dnb-hugo-search-algolia"]
+	path = dnb-hugo-search-algolia
+	url = https://github.com/dnb-org/dnb-hugo-search-algolia
+[submodule "dnb-hugo-security"]
+	path = dnb-hugo-security
+	url = https://github.com/dnb-org/dnb-hugo-security
+[submodule "dnb-hugo-shortcodes"]
+	path = dnb-hugo-shortcodes
+	url = https://github.com/dnb-org/dnb-hugo-shortcodes
+[submodule "dnb-hugo-sitemap"]
+	path = dnb-hugo-sitemap
+	url = https://github.com/dnb-org/dnb-hugo-sitemap
+[submodule "dnb-hugo-social"]
+	path = dnb-hugo-social
+	url = https://github.com/dnb-org/dnb-hugo-social
+[submodule "dnb-hugo-templates"]
+	path = dnb-hugo-templates
+	url = https://github.com/dnb-org/dnb-hugo-templates
+[submodule "dnb-hugo-testcontent"]
+	path = dnb-hugo-testcontent
+	url = https://github.com/dnb-org/dnb-hugo-testcontent
+[submodule "dnb-hugo-workflows"]
+	path = dnb-hugo-workflows
+	url = https://github.com/dnb-org/dnb-hugo-workflows
