@@ -1,3 +1,5 @@
+# Archived in favour of [davidsneighbour/hugo-modules](https://github.com/davidsneighbour/hugo-modules)
+
 # Installation
 
 ```bash
